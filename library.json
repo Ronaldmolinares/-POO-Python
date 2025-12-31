@@ -1,0 +1,303 @@
+{
+    "name": " ***** BIBLIOTECA DUITAMA COMFABOY ***** ",
+    "books": [
+        {
+            "title": "Cien años de soledad",
+            "author": "Gabriel García Márquez",
+            "isbn": "978-0307474728",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "Don Quijote de la Mancha",
+            "author": "Miguel de Cervantes",
+            "isbn": "978-8491050407",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "1984",
+            "author": "George Orwell",
+            "isbn": "978-0451524935",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "El principito",
+            "author": "Antoine de Saint-Exupéry",
+            "isbn": "978-0156012195",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "Crimen y castigo",
+            "author": "Fiódor Dostoyevski",
+            "isbn": "978-0143058144",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "El gran Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "isbn": "978-0743273565",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "Orgullo y prejuicio",
+            "author": "Jane Austen",
+            "isbn": "978-0141439518",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "La Odisea",
+            "author": "Homero",
+            "isbn": "978-0140268867",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "Moby Dick",
+            "author": "Herman Melville",
+            "isbn": "978-0142437247",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "El amor en los tiempos del cólera",
+            "author": "Gabriel García Márquez",
+            "isbn": "978-0307389732",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "Los miserables",
+            "author": "Victor Hugo",
+            "isbn": "978-0451419439",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "Anna Karenina",
+            "author": "León Tolstói",
+            "isbn": "978-0143035008",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "El guardián entre el centeno",
+            "author": "J.D. Salinger",
+            "isbn": "978-0316769174",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "Fahrenheit 451",
+            "author": "Ray Bradbury",
+            "isbn": "978-1451673319",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "Matar un ruiseñor",
+            "author": "Harper Lee",
+            "isbn": "978-0061120084",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "Clean Code",
+            "author": "Robert C. Martin",
+            "isbn": "978-0132350884",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "Python Crash Course",
+            "author": "Eric Matthes",
+            "isbn": "978-1593279288",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "The Pragmatic Programmer",
+            "author": "Andrew Hunt",
+            "isbn": "978-0135957059",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "Design Patterns",
+            "author": "Gang of Four",
+            "isbn": "978-0201633610",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "Introduction to Algorithms",
+            "author": "Thomas H. Cormen",
+            "isbn": "978-0262033844",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "Artificial Intelligence: A Modern Approach",
+            "author": "Stuart Russell",
+            "isbn": "978-0136042594",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "Deep Learning",
+            "author": "Ian Goodfellow",
+            "isbn": "978-0262035613",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "You Don't Know JS",
+            "author": "Kyle Simpson",
+            "isbn": "978-1491904244",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "JavaScript: The Good Parts",
+            "author": "Douglas Crockford",
+            "isbn": "978-0596517748",
+            "is_available": true,
+            "loan_date": null
+        },
+        {
+            "title": "Head First Design Patterns",
+            "author": "Eric Freeman",
+            "isbn": "978-0596007126",
+            "is_available": true,
+            "loan_date": null
+        }
+    ],
+    "users": [
+        {
+            "name": "Dr. Roberto Gómez",
+            "id": "T1001",
+            "libros_prestados": [],
+            "tipo": "docente",
+            "carrera": null,
+            "departamento": "Departamento de Ciencias de la Computación"
+        },
+        {
+            "name": "Dra. Patricia Fernández",
+            "id": "T1002",
+            "libros_prestados": [],
+            "tipo": "docente",
+            "carrera": null,
+            "departamento": "Departamento de Matemáticas"
+        },
+        {
+            "name": "Dr. Miguel Ángel Ruiz",
+            "id": "T1003",
+            "libros_prestados": [],
+            "tipo": "docente",
+            "carrera": null,
+            "departamento": "Departamento de Física"
+        },
+        {
+            "name": "Dra. Elena Castro",
+            "id": "T1004",
+            "libros_prestados": [],
+            "tipo": "docente",
+            "carrera": null,
+            "departamento": "Departamento de Literatura"
+        },
+        {
+            "name": "Dr. Fernando Morales",
+            "id": "T1005",
+            "libros_prestados": [],
+            "tipo": "docente",
+            "carrera": null,
+            "departamento": "Departamento de Ingeniería"
+        },
+        {
+            "name": "Juan Pérez",
+            "id": "1234567890",
+            "libros_prestados": [],
+            "tipo": "estudiante",
+            "carrera": "Ingeniería de Sistemas",
+            "departamento": null
+        },
+        {
+            "name": "María González",
+            "id": "2345678901",
+            "libros_prestados": [],
+            "tipo": "estudiante",
+            "carrera": "Medicina",
+            "departamento": null
+        },
+        {
+            "name": "Carlos Rodríguez",
+            "id": "3456789012",
+            "libros_prestados": [],
+            "tipo": "estudiante",
+            "carrera": "Derecho",
+            "departamento": null
+        },
+        {
+            "name": "Ana Martínez",
+            "id": "4567890123",
+            "libros_prestados": [],
+            "tipo": "estudiante",
+            "carrera": "Arquitectura",
+            "departamento": null
+        },
+        {
+            "name": "Luis Hernández",
+            "id": "5678901234",
+            "libros_prestados": [],
+            "tipo": "estudiante",
+            "carrera": "Ingeniería Civil",
+            "departamento": null
+        },
+        {
+            "name": "Laura López",
+            "id": "6789012345",
+            "libros_prestados": [],
+            "tipo": "estudiante",
+            "carrera": "Psicología",
+            "departamento": null
+        },
+        {
+            "name": "Pedro Sánchez",
+            "id": "7890123456",
+            "libros_prestados": [],
+            "tipo": "estudiante",
+            "carrera": "Administración de Empresas",
+            "departamento": null
+        },
+        {
+            "name": "Carmen Díaz",
+            "id": "8901234567",
+            "libros_prestados": [],
+            "tipo": "estudiante",
+            "carrera": "Biología",
+            "departamento": null
+        },
+        {
+            "name": "Jorge Torres",
+            "id": "9012345678",
+            "libros_prestados": [],
+            "tipo": "estudiante",
+            "carrera": "Física",
+            "departamento": null
+        },
+        {
+            "name": "Isabel Ramírez",
+            "id": "0123456789",
+            "libros_prestados": [],
+            "tipo": "estudiante",
+            "carrera": "Química",
+            "departamento": null
+        }
+    ],
+    "saving_date": "2025-12-31T12:59:21.227944"
+}

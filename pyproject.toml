@@ -1,0 +1,7 @@
+[project]
+name = "poo"
+version = "0.1.0"
+description = "Proyecto Biblioteca POO con Python"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
