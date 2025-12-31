@@ -54,13 +54,10 @@ POO/
 │   └── book_factory.py      # Factory para crear libros
 │
 ├── persistence/              # Capa de persistencia
-│   ├── __init__.py
-│   ├── persistence.py       # Manejo de JSON con fechas
-│   └── data.py              # Datos de prueba (25 libros, 20 usuarios)
-│
-└── ejercicios/               # Archivos de práctica
-    ├── practica.py
-    └── refactor_main.py
+   ├── __init__.py
+   ├── persistence.py       # Manejo de JSON con fechas
+   └── data.py              # Datos de prueba (25 libros, 20 usuarios)
+
 ```
 
 ## 🛠️ Tecnologías Utilizadas
@@ -223,20 +220,10 @@ Las contribuciones son bienvenidas. Por favor:
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📄 Licencia
-
-Este proyecto es de código abierto y está disponible bajo la [Licencia MIT](LICENSE).
-
 ## 👨‍💻 Autor
 
-**Samir**
-- Universidad: UPTC
-- Semestre: 8
+**Ronald Samir Molinares**
 - Curso: Programación Orientada a Objetos
-
-## 📧 Contacto
-
-Para preguntas o sugerencias, por favor abre un issue en el repositorio.
 
 ---
 
